@@ -1,0 +1,6 @@
+1：引入bootstrap 3 前端框架，实现页面自适应展示
+
+bootstrap 知识点概念，结合本项目应用举例。
+
+a: col-xs-*
+b: media查询
